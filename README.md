@@ -9,7 +9,7 @@
 
 ## 🛠 &nbsp;Ferramentas
 
-<p align="left"> <a href="https://gist.github.com/giboxz/34bca78f97ffa65ab0f6210b9e9ebde2" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gist/giboxz/34bca78f97ffa65ab0f6210b9e9ebde2/raw/b965bd84c721efe4dad7080132aafe3af5f7d786/ferramentas.svg" alt="ferramentas usadas" width = 600/> </a> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/gist/giboxz/34bca78f97ffa65ab0f6210b9e9ebde2/raw/b965bd84c721efe4dad7080132aafe3af5f7d786/ferramentas.svg" alt="ferramentas usadas" width = 600/> </p>
 
 <br><br>
 
