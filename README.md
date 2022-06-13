@@ -1,7 +1,7 @@
 <h1 align="left">Opa, tudo bem? Meu nome é Gilvan Ferreira, pode me chamar de Giboxz.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giboxz&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sou um programador Junior que gosta muito da banco de dados.
+- 🔥 Sou um programador Junior que gosta muito de banco de dados.
 
 - 💬 Tenho interesse por **JavaScript, HTML, CSS, MySQL, PostgreSQL, Python e BI**
 
