@@ -1,13 +1,13 @@
-<h1 align="left">Opa, tudo bem? Meu nome é Gilvan Ferreira, pode me chamar de Giboxz.</h1>
+## Opa! Meu nome é Gilvan Ferreira, <br>mas pode me chamar de Giboxz.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giboxz&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Sou um programador Junior que gosta muito de banco de dados.
 
 - 💬 Tenho interesse por **JavaScript, HTML, CSS, MySQL, PostgreSQL, Python e BI**
 
-<br><br>
+## Essas são algumas tecnologias que tenho contato atualmente:
 
-## 🛠 &nbsp;Ferramentas
+<br>
 
 <p align="left"> 
   
@@ -15,14 +15,12 @@
   
 </p>
 
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
+<br>
 
 <p align="left">
   
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=giboxz&show_icons=true&theme=vision-friendly-dark" alt="giboxz stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giboxz&layout=compact&theme=vision-friendly-dark" alt="giboxz most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=giboxz&show_icons=true&theme=vision-friendly-dark" alt="giboxz stats"/>
+<img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giboxz&layout=compact&theme=vision-friendly-dark" alt="giboxz most languages"/>
 
 </p>
 
