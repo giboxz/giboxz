@@ -19,8 +19,8 @@
 
 <p align="left">
   
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=giboxz&show_icons=true&theme=vision-friendly-dark" alt="giboxz stats"/>
-<img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giboxz&layout=compact&theme=vision-friendly-dark" alt="giboxz most languages"/>
+<img width="580em" src="https://github-readme-stats.vercel.app/api?username=giboxz&show_icons=true&theme=vision-friendly-dark" alt="giboxz stats"/>
+<img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giboxz&layout=compact&theme=vision-friendly-dark" alt="giboxz most languages"/>
 
 </p>
 
